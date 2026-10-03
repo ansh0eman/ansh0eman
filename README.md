@@ -1,31 +1,25 @@
-# Anshuman
+# hey, i'm anshuman 👋
 
-I build software that connects thoughtful product ideas with dependable engineering. My current work spans native Apple platforms, realtime systems, and full-stack products.
+Software developer, music person. I like making things where code gets to be a little creative — realtime voice on a watch, music turning into fractals, or a backend noticing something weird before a human does.
 
-## Selected work
+Somehow I’ve also ended up wrangling government APIs and building an AI-powered compliance project with a team. Most of it starts with “wouldn’t it be cool if…” and then a suspicious number of tabs.
 
-| Project | What it explores | Stack |
-| --- | --- | --- |
-| [LEDA for watchOS](https://github.com/ansh0eman/ledaWatchOS) | A watch-first realtime voice assistant, with microphone capture, streamed audio, and a Node.js bridge | SwiftUI, AVFoundation, WebSockets, Node.js |
-| [Real-Time Anomaly Engine](https://github.com/ansh0eman/real-time-anomaly-engine) | An asynchronous metrics pipeline with stream processing, anomaly detection, persistence, and live alerts | FastAPI, Redis Streams, PostgreSQL, scikit-learn, Docker |
-| [Fractal Resonance](https://github.com/ansh0eman/music-fractal) | A music-driven generative art experiment combining audio analysis, shaders, and video rendering | React, Three.js, GLSL, Python, Docker |
-| [SetuAI](https://github.com/ansh0eman/setuai) | A team-built compliance workflow using OCR and AI-assisted document review | React, Node.js, PostgreSQL |
-| [Portfolio](https://github.com/ansh0eman/anshu-man) | Personal site and project writing | Astro, TypeScript, Tailwind CSS |
+## things i've made
 
-NearHere is an active, private product project; it is not included as a public repository link.
+**[LEDA for watchOS](https://github.com/ansh0eman/ledaWatchOS)** — I wanted to see what an assistant would feel like if the watch was the main event. It listens on the Watch, streams audio through a small Node bridge, and talks back. Still a prototype; still fun to make.
 
-## Current focus
+**[Real-Time Anomaly Engine](https://github.com/ansh0eman/real-time-anomaly-engine)** — metrics go in, a worker takes a look, and alerts come out live. FastAPI, Redis Streams, Postgres, and a detector that starts simple before it has enough history for an Isolation Forest.
 
-- Designing resilient realtime audio and event-processing flows
-- Building native-first products with clear privacy and reliability boundaries
-- Improving testing, observability, and the path from prototype to dependable software
+**[Fractal Resonance](https://github.com/ansh0eman/music-fractal)** — because apparently a song can become a fractal. Audio analysis feeds the visuals, shaders make them move, and the project can render video loops.
 
-## Tools I use
+**[SetuAI](https://github.com/ansh0eman/setuai)** — a team project for making textile compliance less of a paperwork maze: OCR, AI-assisted certificate review, and government API checks. It picked up special recognition at SAP Hackfest 2025, which was a pretty great surprise.
 
-Swift · SwiftUI · TypeScript · JavaScript · Python · React · Astro · FastAPI · Node.js · PostgreSQL · Supabase · Redis · Docker · Git
+## lately
 
-## Connect
+Mostly realtime audio, native Apple stuff, and building products that solve an actual problem. Also still wondering if Thom Yorke ever coded in Python.
 
-[Portfolio](https://ansh0eman.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/anshuman-anshuman-82028b263/) · [Email](mailto:anshuwont@gmail.com)
+## elsewhere
 
-I value clear engineering trade-offs, small verifiable steps, and products that feel good to use.
+[my site](https://ansh0eman.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/anshuman-anshuman-82028b263/) · [email](mailto:anshuwont@gmail.com) · [Spotify](https://open.spotify.com/user/a9hedv3hqk3x1wbhfqbm50z68)
+
+I (over)think, (maybe) therefore I am (not).
