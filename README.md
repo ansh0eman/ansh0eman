@@ -20,6 +20,6 @@ Mostly realtime audio, native Apple stuff, and building products that solve an a
 
 ## elsewhere
 
-[my site](https://ansh0eman.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/anshuman-anshuman-82028b263/) · [email](mailto:anshuwont@gmail.com) · [Spotify](https://open.spotify.com/user/a9hedv3hqk3x1wbhfqbm50z68)
+[my site](https://ansh0eman.in/) · [LinkedIn](https://www.linkedin.com/in/anshuman-anshuman-82028b263/) · [email](mailto:anshuwont@gmail.com) · [Spotify](https://open.spotify.com/user/a9hedv3hqk3x1wbhfqbm50z68)
 
 I (over)think, (maybe) therefore I am (not).
