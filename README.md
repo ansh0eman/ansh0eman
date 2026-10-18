@@ -16,7 +16,7 @@ Somehow I’ve also ended up wrangling government APIs and building an AI-powere
 
 ## lately
 
-Mostly realtime audio, native Apple stuff, and building products that solve an actual problem. Also still wondering if Thom Yorke ever coded in Python.
+Mostly realtime audio, native Apple stuff, and building products that solve an actual problem.
 
 ## elsewhere
 
