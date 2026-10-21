@@ -1,41 +1,30 @@
-# Anshuman
+<div align="center">
 
-**Software Engineer · Full-stack systems · AI agents · Realtime applications**
+# anshuman.exe
 
-I build software where product thinking meets engineering: agentic developer tools, secure AI applications, realtime systems, and mobile experiences.
+*usually building something. occasionally finishing it.*
 
-Computer Science graduate from MIT Manipal. Interested in building dependable products end to end—from the interface to the backend, infrastructure, and the tricky edge cases.
+[website](https://ansh0eman.in) · [linkedin](https://www.linkedin.com/in/anshuman-anshuman-82028b263/) · [say hello](mailto:anshuwont@gmail.com)
 
-[Portfolio](https://ansh0eman.in/) · [Resume](https://ansh0eman.in/resume/resume.pdf) · [LinkedIn](https://www.linkedin.com/in/anshuman-anshuman-82028b263/) · [Email](mailto:anshuwont@gmail.com)
+</div>
 
-## Selected engineering work
+```text
+$ whoami
+CS grad from MIT Manipal.
+I like the part where a weird idea becomes a working system.
+```
 
-| Project | What I built | Engineering focus |
-| --- | --- | --- |
-| [Aegis AI](https://github.com/ansh0eman/aegis-ai) | Self-hostable multi-user AI chat and governance reference app | Next.js, TypeScript, SSE, Argon2id, JWT, RBAC, SQLite/Drizzle, audit and quotas |
-| [Leda](https://github.com/ansh0eman/Leda) | Terminal-native agentic coding assistant | Node.js, TypeScript, OpenAI tool calls, Zod validation, bounded orchestration and file safety |
-| [NearHere](https://github.com/ansh0eman/NearHere) | Map-first mobile app for finding and joining nearby activities | React Native, Expo, Supabase, PostGIS, phone OTP and privacy-aware discovery |
-| [LEDA for watchOS](https://github.com/ansh0eman/ledaWatchOS) | Realtime voice assistant prototype on Apple Watch | SwiftUI, AVAudioEngine, WebSockets, streaming audio and a Node.js bridge |
-| [Real-Time Anomaly Engine](https://github.com/ansh0eman/real-time-anomaly-engine) | Async ingestion and anomaly-alert pipeline | Python, FastAPI, Redis Streams, PostgreSQL, WebSockets and Isolation Forest |
-| [SetuAI](https://github.com/ansh0eman/setuai) | Team-built AI-assisted textile compliance system | React, Node.js, PostgreSQL, OCR and document analysis |
+### things that escaped the ideas folder
 
-> The repositories contain architecture notes, setup instructions, and explicit descriptions of what is implemented versus planned. Several are active prototypes, not deployed production services.
+- **[Leda](https://github.com/ansh0eman/Leda)** — a coding agent that can look around a codebase before it speaks.
+- **[NearHere](https://github.com/ansh0eman/NearHere)** — trying to make “we should hang out sometime” actually happen. on a map.
+- **[LEDA for watchOS](https://github.com/ansh0eman/ledaWatchOS)** — talking to an assistant from my wrist, because why not?
+- **[Aegis AI](https://github.com/ansh0eman/aegis-ai)** — AI chat, but with permissions, persistence and the less glamorous bits.
 
-## What I work with
-
-**Languages:** TypeScript, JavaScript, Python, C, Swift, SQL  
-**Apps & APIs:** React, Next.js, Node.js, React Native, Expo, FastAPI, SwiftUI  
-**Systems & data:** PostgreSQL, SQLite, Redis Streams, Supabase, Docker, WebSockets, SSE  
-**AI engineering:** LLM APIs, tool-calling agents, Zod schemas, audio pipelines, classical ML
-
-## How I approach engineering
-
-- **Trace the full flow.** From UI interaction to authorization, persistence, infrastructure, and failure handling.
-- **Build for inspection.** Prefer explicit architecture, tested boundaries, and reproducible local setup over black-box demos.
-- **State what is real.** Separate implemented features, prototypes, roadmap items, and production limitations.
-
-**Currently exploring:** reliable coding agents, streaming AI systems, and location-aware consumer products.
+`typescript` · `python` · `swift` · `react` · `node.js` · `postgresql`
 
 ---
 
-*Outside engineering: music, football, and experiments that start with “what if…?”*
+*somewhere between systems engineering, music, football, and one more side project.*
+
+> I (over)think, (maybe) therefore I am (not).
