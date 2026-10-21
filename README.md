@@ -20,13 +20,12 @@ What if AI applications had proper guardrails?
 
 ---
 
-<sub>TOOLS OF THE TRADE</sub>
+<sub>TECH STACK</sub>
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,python,swift,react,nextjs,nodejs,postgres,redis,docker&theme=dark&perline=10" alt="TypeScript, JavaScript, Python, Swift, React, Next.js, Node.js, PostgreSQL, Redis, Docker" />
 </p>
 
-<sub>Mostly TypeScript. Sometimes Swift. Occasionally something else entirely.</sub>
 
 ---
 
