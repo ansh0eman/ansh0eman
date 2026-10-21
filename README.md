@@ -1,25 +1,41 @@
-# hey, i'm anshuman 👋
+# Anshuman
 
-Software developer, music person. I like making things where code gets to be a little creative — realtime voice on a watch, music turning into fractals, or a backend noticing something weird before a human does.
+**Software Engineer · Full-stack systems · AI agents · Realtime applications**
 
-Somehow I’ve also ended up wrangling government APIs and building an AI-powered compliance project with a team. Most of it starts with “wouldn’t it be cool if…” and then a suspicious number of tabs.
+I build software where product thinking meets engineering: agentic developer tools, secure AI applications, realtime systems, and mobile experiences.
 
-## things i've made
+Computer Science graduate from MIT Manipal. Interested in building dependable products end to end—from the interface to the backend, infrastructure, and the tricky edge cases.
 
-**[LEDA for watchOS](https://github.com/ansh0eman/ledaWatchOS)** — I wanted to see what an assistant would feel like if the watch was the main event. It listens on the Watch, streams audio through a small Node bridge, and talks back. Still a prototype; still fun to make.
+[Portfolio](https://ansh0eman.in/) · [Resume](https://ansh0eman.in/resume/resume.pdf) · [LinkedIn](https://www.linkedin.com/in/anshuman-anshuman-82028b263/) · [Email](mailto:anshuwont@gmail.com)
 
-**[Real-Time Anomaly Engine](https://github.com/ansh0eman/real-time-anomaly-engine)** — metrics go in, a worker takes a look, and alerts come out live. FastAPI, Redis Streams, Postgres, and a detector that starts simple before it has enough history for an Isolation Forest.
+## Selected engineering work
 
-**[Fractal Resonance](https://github.com/ansh0eman/music-fractal)** — because apparently a song can become a fractal. Audio analysis feeds the visuals, shaders make them move, and the project can render video loops.
+| Project | What I built | Engineering focus |
+| --- | --- | --- |
+| [Aegis AI](https://github.com/ansh0eman/aegis-ai) | Self-hostable multi-user AI chat and governance reference app | Next.js, TypeScript, SSE, Argon2id, JWT, RBAC, SQLite/Drizzle, audit and quotas |
+| [Leda](https://github.com/ansh0eman/Leda) | Terminal-native agentic coding assistant | Node.js, TypeScript, OpenAI tool calls, Zod validation, bounded orchestration and file safety |
+| [NearHere](https://github.com/ansh0eman/NearHere) | Map-first mobile app for finding and joining nearby activities | React Native, Expo, Supabase, PostGIS, phone OTP and privacy-aware discovery |
+| [LEDA for watchOS](https://github.com/ansh0eman/ledaWatchOS) | Realtime voice assistant prototype on Apple Watch | SwiftUI, AVAudioEngine, WebSockets, streaming audio and a Node.js bridge |
+| [Real-Time Anomaly Engine](https://github.com/ansh0eman/real-time-anomaly-engine) | Async ingestion and anomaly-alert pipeline | Python, FastAPI, Redis Streams, PostgreSQL, WebSockets and Isolation Forest |
+| [SetuAI](https://github.com/ansh0eman/setuai) | Team-built AI-assisted textile compliance system | React, Node.js, PostgreSQL, OCR and document analysis |
 
-**[SetuAI](https://github.com/ansh0eman/setuai)** — a team project for making textile compliance less of a paperwork maze: OCR, AI-assisted certificate review, and government API checks. It picked up special recognition at SAP Hackfest 2025, which was a pretty great surprise.
+> The repositories contain architecture notes, setup instructions, and explicit descriptions of what is implemented versus planned. Several are active prototypes, not deployed production services.
 
-## lately
+## What I work with
 
-Mostly realtime audio, native Apple stuff, and building products that solve an actual problem.
+**Languages:** TypeScript, JavaScript, Python, C, Swift, SQL  
+**Apps & APIs:** React, Next.js, Node.js, React Native, Expo, FastAPI, SwiftUI  
+**Systems & data:** PostgreSQL, SQLite, Redis Streams, Supabase, Docker, WebSockets, SSE  
+**AI engineering:** LLM APIs, tool-calling agents, Zod schemas, audio pipelines, classical ML
 
-## elsewhere
+## How I approach engineering
 
-[my site](https://ansh0eman.in/) · [LinkedIn](https://www.linkedin.com/in/anshuman-anshuman-82028b263/) · [email](mailto:anshuwont@gmail.com) · [Spotify](https://open.spotify.com/user/a9hedv3hqk3x1wbhfqbm50z68)
+- **Trace the full flow.** From UI interaction to authorization, persistence, infrastructure, and failure handling.
+- **Build for inspection.** Prefer explicit architecture, tested boundaries, and reproducible local setup over black-box demos.
+- **State what is real.** Separate implemented features, prototypes, roadmap items, and production limitations.
 
-I (over)think, (maybe) therefore I am (not).
+**Currently exploring:** reliable coding agents, streaming AI systems, and location-aware consumer products.
+
+---
+
+*Outside engineering: music, football, and experiments that start with “what if…?”*
