@@ -20,6 +20,16 @@ What if AI applications had proper guardrails?
 
 ---
 
+<sub>TOOLS OF THE TRADE</sub>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,swift,react,nextjs,nodejs,postgres,redis,docker&theme=dark&perline=10" alt="TypeScript, JavaScript, Python, Swift, React, Next.js, Node.js, PostgreSQL, Redis, Docker" />
+</p>
+
+<sub>Mostly TypeScript. Sometimes Swift. Occasionally something else entirely.</sub>
+
+---
+
 I write software. I like music, football, and figuring out how things work.
 
 [website ↗](https://ansh0eman.in) · [linkedin ↗](https://www.linkedin.com/in/anshuman-anshuman-82028b263/) · [email ↗](mailto:anshuwont@gmail.com)
